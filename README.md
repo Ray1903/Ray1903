@@ -32,7 +32,7 @@ Feel free to explore my repositories and projects—I'm always open to collabora
 ---
 
 ## 📜 How to Access My CV  
-You can view my CV [here](#) or in the `CV` folder of this repository.  
+You can view my CV [here](https://drive.google.com/file/d/1qWohjVreaU_K10xl9QHp7C-nbP3r74Al/view?usp=sharing).  
 
 ---
 
