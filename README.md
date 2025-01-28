@@ -37,7 +37,7 @@ You can view my CV [here](https://drive.google.com/file/d/1qWohjVreaU_K10xl9QHp7
 ---
 
 ## 📫 Get in Touch  
-- **Email**: [raymundo10@gmail.com](mailto:raymundo10@gmail.com)  
+- **Email**: [raymundopons10@gmail.com](mailto:raymundopons10@gmail.com)  
 - **LinkedIn**: [Raymundo](https://www.linkedin.com/in/raymundo-jos%C3%A9-mu%C3%B1oz-pons-1a7604286/)  
 - **GitHub**: [Your GitHub Profile](https://github.com/Ray1903)  
 
