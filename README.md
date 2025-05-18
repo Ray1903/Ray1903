@@ -31,8 +31,8 @@ Feel free to explore my repositories and projects—I'm always open to collabora
 
 ---
 
-## 📜 How to Access My CV  
-You can view my CV [here](https://drive.google.com/drive/folders/1QDd_AitehTLsppfZW0XTmzPolYOTtdNm?hl=es).  
+## 📜 How to Access My Resume
+You can view my resume [here]([https://drive.google.com/drive/folders/1QDd_AitehTLsppfZW0XTmzPolYOTtdNm?hl=es](https://drive.google.com/file/d/1b_Ckbuc35OJVxxKKeTmVzQXJ86CYY5LZ/view?usp=sharing)).  
 
 ---
 
