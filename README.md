@@ -32,7 +32,7 @@ Feel free to explore my repositories and projects—I'm always open to collabora
 ---
 
 ## 📜 How to Access My Resume
-You can view my resume [here](https://drive.google.com/file/d/1b_Ckbuc35OJVxxKKeTmVzQXJ86CYY5LZ/view?usp=drive_link).
+You can view my resume [here](https://drive.google.com/file/d/10_u93aQvueiDHEKFH2rp28-KWknLW6-R/view?usp=drive_link).
 
 ---
 
